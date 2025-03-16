@@ -1,4 +1,4 @@
-# Portfolio ¡Hola, bienvenido a mi proyecto de Amigo Secreto!
+# ¡Hola, bienvenido a mi proyecto de Amigo Secreto!
 https://raw.githubusercontent.com/julietavin/Alura---Challenge-Amigo-Secreto/main/assets/amigo-secreto.png
 ## Herramientas utilizadas:
 
